@@ -1,0 +1,26 @@
+# Android Studio
+.idea/
+*.iml
+
+# Build files
+build/
+*/build/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# APK files
+*.apk
+*.aab
+
+# Google/Firebase secrets
+google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
