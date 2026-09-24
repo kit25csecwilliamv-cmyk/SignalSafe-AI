@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#071827</color>
+    <color name="red">#E53935</color>
+    <color name="teal">#00D6A3</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SignalSafe AI</string>
+    <style name="Theme.SignalSafe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#071827</item>
+        <item name="android:navigationBarColor">#071827</item>
+        <item name="android:colorAccent">#00D6A3</item>
+    </style>
+</resources>
